@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Under God. Humbly desiring his blessing to this famous and wonderful never failing cordial drink of the world. The great preserver of manking. A secret far beyond any thing yet known to the world. Never published by any but by me Thomas Hinde G. in London, most approved and admirable for its excellent vertues and uses.</title>
+            <author>Hinde, Thomas, fl. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43853</idno>
+            <idno type="STC">Wing H2062</idno>
+            <idno type="STC">ESTC R213817</idno>
+            <idno type="EEBO-CITATION">99826090</idno>
+            <idno type="PROQUEST">99826090</idno>
+            <idno type="VID">30482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1760:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Under God. Humbly desiring his blessing to this famous and wonderful never failing cordial drink of the world. The great preserver of manking. A secret far beyond any thing yet known to the world. Never published by any but by me Thomas Hinde G. in London, most approved and admirable for its excellent vertues and uses.</title>
+                  <author>Hinde, Thomas, fl. 1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drinking of alcoholic beverages --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:30482:1" rendition="simple:additions"/>
+            <head>UNDER GOD Humbly Deſiring his Bleſſing to this Famous and Wonderful Never Failing CORDIAL DRINK OF THE WORLD. The Great <hi>PRESERVER</hi> of Mankind.</head>
+            <head>A SECRET Far beyond any thing YET KNOWN TO THE WORLD. Never Publiſhed by any but by me <hi>Thomas Hinde</hi> G. in <hi>London,</hi> Moſt Approved and Admirable for its EXCELLENT VERTUES AND USES.</head>
+            <p>This is to give notice to all Perſon, That my Cordial is ſold at no place in <hi>London,</hi> or in <hi>England,</hi> but within <hi>Alderſgate</hi> in St. <hi>Martins,</hi> next door to the Fountain Tavern, at the Pi<g ref="char:EOLhyphen"/>cture Drawers Houſe, and alſo in <hi>York</hi> City in <hi>Owſegate,</hi> at the Hand and Pen, at Mr.<hi>John Haindes</hi> houſe, as at the end of my Bills will fully direct you, and the Price of each Bottle; and that you may know (that I <hi>Thomas Hinde</hi> am the True Author) I have for prevention of all Pretenders and Counterfits, ſet my Seal on my Bottles, being the Wounded Hind with ☞<hi>T. H.</hi> incompaſſed in a Lawrel, that none may be Deceived by any, being informed that the Counterfiting of it, hath been often Attempted to the Diſpleaſure of many, <hi>&amp;c.</hi>
+            </p>
+            <p>And though my Bills and Directions, and the Seal on my Bottles may be Counterfited, yet if they have it at the two aforeſaid Houſes, they cannot be deceived, but ſhall have it as Pure and Good, as if they had it out of my own hands; neither are my Bills given commonly about, but only with my Cordial at thoſe two houſes, <hi>&amp;c.</hi>
+            </p>
+            <p>And of late one boldly takes upon him to make uſe of my cures in the words of my Bills and Directions, and ſets them forth in his own Name, and wilely under the Notion of the Peo<g ref="char:EOLhyphen"/>ple, and injurious abuſe of my Name, to diſgorge inveterately his deſigned malice, ſpight and envy, with cloſe and great deceit againſt my ſuccesful proceedings and great Cures atteſted by the People, and not only ſo, but wilfully inventeth what he will, and uſeth endeavors to defame me too, and this to draw his purpoſe about, to bring a reputation on his Liquor, by maligning of my Never Failing Cordial.</p>
+            <p>As for his near driven ſhift, with a hardy brazen Brow, to ſay that he taught me, and that he never revealed the Receit to any in the World. It is notorious falſe, both Oracle and Vaſſal, hath failed in their Dictates, and deceived one another, for he could never reveal that [which himſelf never knew] nor any in the Nation. Neither am I ſo prodigal of my Writing, or did ever uſe ſuch practiſes to ſet my hand to Juſtifie falſe tranſactions, and ſtolen words out of my very own Bills of my Cures of the Stone and experiences on the People.</p>
+            <p>My laborious Travels in divers forraign Counteries, and great pains above Twenty years, is truly well known; and how curious inquiſitive I was in the great concernment of health, as now effectually appeareth.</p>
+            <p>And am now informed of many pretenders that would ſhamefully Counterfit it, to deceive the People, and lay claim to the Practiſe of my Never Failing Cordial, they hearing of its great Cures, have changed their white Liquor to another Culler, [to revive its dying Nature,] but it is all in vain to change Cullers, for the thing like the thing, is not the thing it ſelf, to work, the effect intended; for there is ſeveral ingredients in mine that none in <hi>England</hi> doth know off, which through the bleſſing of God, doth powerfully prevail to effect the Cures my Bills mentions, at doth dayly appear by the 'Peoples experience.</p>
+            <p>THis Cordial is ſo Agreeable to Nature, that it performs all its Operation as Nature would have it; as if She had fitted to her Self, or found out Mediums to reduce all her Extreams to an equal Temper; <hi>It being fitted to all Humors, Ages, Complexions, Sexes, and Conſtitutions</hi>: For if any Noxious Humour offend the Noble Parts, <hi>This Great Preſerver</hi> will ſo Highly Fortifie Nature, that it will not admit any Enemy to enter: And He or She that keeps this Ineſtimable Jewel by them, <hi>May bid Farewel to former ways they used,</hi> and will ſave them that Great Expence of Charge.</p>
+            <p>For by good Experience of my own ſad Condition, and Others, for the ſpace of Five Years, I was driven from one Doctor to another, but all that they could do was not able to help me; and was at the Wells. They ſaid, If that did not Cure me, no Phyſick would; but I found no help there, ſo that they had given me over: For had I continued longer, in all human ſenſe I ſhould have been in my Grave long ere now.</p>
+            <p>But I fell to the uſe of <hi>This My Never Failing Cordial,</hi> which in a very ſhort time ſet me at Liberty, and am now in perfect Health: All Glory be to God for it.</p>
+            <p>THis Great Preſerver, or Never Failing Cordial <hi>will not fail</hi> to Cure the GOUT; for it <hi>Stifles it in its Birth, or Kills it in its Strength,</hi> as true Experience <hi>hath found</hi>: Extracting out of all parts of the Body, thoſe Crude and Viſcous Humours, which are the Spawn and nouriſher of it: and doth free the Joynts of all other Diſeaſes <hi>to Admiration.</hi>
+            </p>
+            <p>Diſſolving the Stone and Gravel; a better Remedy CANNOT BE: For when it's <hi>Congeated, it brings away,</hi> (the Sand and Gravel ſoft) as <hi>Butter or Fine Flower</hi> under your Finger; and not only ſo, but doth deſtroy the Original Cauſe: It <hi>Never faileth</hi> to Cure the Gravel in the Reins and Kidneys Ulcerated, that ſendeth forth water like blood, and <hi>wonderfully</hi> Cleanſeth the Reins of all Foulneſs and Imperfections, and forceth Urine.</p>
+            <p>It reſtoreth all languiſhing Natures, and <hi>Melancholy drooping Spirits</hi>: It will not fail but <hi>Perfectly Cure</hi> the Hypochondriack Melancholy; and doth moſt Powerfully oppoſe all Black, and mixed Humours, as the Grand Enemy to Nature: for it is continually drawing them out of the Veins and Arteries into the Stomack, and from thence ſendeth them away,(<hi>after that</hi>) Nature Rejoyceth.</p>
+            <p>It purſueth the Surfeits from place to place; and though the body be ſwell'd up, in <hi>two days time</hi> it will raiſe them out of their Beds, and ſet them on their <hi>Feet again</hi>: It taketh away the Scurvy out of the Body Root and Branch; and the Dropſie to Admiration, and all other Diſtempers that <hi>join with it.</hi>
+            </p>
+            <p>It taketh away the Head-ach, diſſineſs, and Swimming in the Head, or Megrim; Convulſion-Fits in the Head, and Swooning away in their Night Sleep, <hi>Though Afflicted for many years.</hi>
+            </p>
+            <p>It helpeth bad Digeſtion, Pain or any ſtoppage of the Stomach, and ſhortneſ of Breath: It Cauſeth a good Appetite, and Defendeth the Head <hi>From all Vapours</hi> which aſcend from the Mother and Spleen; and is a <hi>moſt certain Remedy againſt</hi> the Cholick, or any griping of the Guts, and ſtayeth Vomiting.</p>
+            <p>It taketh away all Pains from the Heart, and <hi>Perfectly</hi> Cureth thoſe that are ſtopt with Flegm, as Choaked, and ſtifled in their Sleep for want of Breath.</p>
+            <p>It giveth Eaſe to Antient People of the Tiſſick, but <hi>Cureth thoſe</hi> that are not too far gone.</p>
+            <p>THis Harmleſs and Pleaſant Cordial is ſo great <hi>a Friend</hi> to all Women<g ref="char:EOLhyphen"/>kind, that they cannot have a Richer Jewel beſtowed upon them as relating to their Health than this; <hi>That will not fail to Clear them</hi> from Obſtructions, fitting and inabling them for Conception, and alſo after Deli<g ref="char:EOLhyphen"/>very or Miſcarriage, though in danger of death, it is an effectually remedy.</p>
+            <p>It doth Cure the Green-Sickneſs of all ſorts in two dayes: This is that which will <hi>not Fail</hi> but bring them to a Virgin-bluſh, Upholding Nature in the Strength and Vigour, <hi>Making</hi> the Viſage well <hi>Coloured,</hi> the Breath <hi>Sweet,</hi> the Body <hi>Luſty.</hi>
+            </p>
+            <p>It helpeth fore and Rheumy Eyes; it ſtays all Rheums that fall from the Head upon the <hi>Lungs</hi>: It perfectly eaſeth all Coughs, Colds, and wheeſings; and Cures Conſumptions if not far gone.</p>
+            <p>It doth free the Liver and Spleen of <hi>all Obſtructions,</hi> and ſo by that means helpeth the Fits of the Mother and Spleen: It is good for Nurſes which give Suck, for it will cleanſe their Blood, and Cauſe good and <hi>Wholeſome Milk</hi>; It Cures the Rickets in Children, by opening the Obſtruction, and many other ſcurvy Diſeaſes.</p>
+            <p>It burſteth and perfectly deſtroyeth Worms of thoſe that are in Years, and al<g ref="char:EOLhyphen"/>moſt over gone with them, bringing away the ſkins of half a yard, and near a yard long; <hi>As hath been Proved.</hi>
+            </p>
+            <p>It keepeth a clear Paſſage between the Head and Heart, and will <hi>not Admit</hi> of any Noxious Humours to annoy the Noble Parts: It will keep off thoſe Frightful Fears, and Griefs, from their violent feizing on the Heart, enabling a <hi>Weak Perſon</hi> to make wonderful reſiſtance, by taking away the ſharp Humours; which they may ſee <hi>come away</hi>: A happy Riddance.</p>
+            <p>It takes away the Extream Burnings in the bottoms of the Feet, and Palms of the Hands, which ſo fore afflict the Heart: Thoſe that are too hot, it cooleth; and in them that are too cold, it increaſeth heat and ſtrength, by taking <hi>away the Cauſe,</hi> as the Directions at large do ſhew.</p>
+            <p>To Conclude, it highly exalts the Generative Vertue, reſtoreth Radical Moiſture; <hi>Cleanſeth and Strengthneth</hi> the Veſſels, <hi>in both Sexes.</hi>
+            </p>
+            <div type="part">
+               <head>I need not Name Particulars.</head>
+               <p>FOr, in a word, its that which Stifles moſt Diſeaſes in their Birth, or Kills them in their Strength, keeping all Sexes in their Priſtine Health; who will Admire the Effects, and conſeſs it to be a Rich Treaſure in time of Need, which <hi>will not fail them</hi> (under God;) For it doth moſt <hi>wonderfully Purifie</hi> the whole Body of Man, ſo that few Diſeaſes (God's appointed time being not come) is able to withſtand it: For moſt Diſtempers are ſubject to its Innocent and won<g ref="char:EOLhyphen"/>derful Operation. <hi>Did the World but know it,</hi> they would highly Eſteem it a <hi>ſpeedy Friend</hi> to Health, truly deſerving the due praiſe of all Men.</p>
+               <p>And (through the goodneſs of God) by long Traveling, I Purchaſed with a great Sum this Pearl, and <hi>Ineſtimable Jewel,</hi> (as I did many) but this is the beſt that ever I heard of amongſt them all, for it hath perfectly Cured me, (<hi>That was Afflicted with moſt of the aforeſaid Diſtempers.</hi>) I might have bought Diamonds at a far Cheaper Rate than the Gravel-Stones coſt, that came from me in Unſpeakable extremity.</p>
+               <p>And through the Earneſt Deſire of <hi>Many</hi> that knew and heard of my long Languiſhing Condition, and now <hi>Cured by this Rich Cordial,</hi> have Importuned with me ſo far, for to Publiſh it, (though I need it not for gain:) For I have a Competent Eſtate otherways to live on without the Practice of this.</p>
+            </div>
+            <div type="part">
+               <head>But out of an Hearty Deſign of Promoting the Health and Common Good of All,</head>
+               <p>Who may and would be helped, I have ſet forth this, to inform the wonderful Effects that have been wrought by this Cordial Spirit, and abundantly Teſtified at large by many, which this Bill cannot contain, to give all ſorts of Perſons full ſatisfaction of its Innocent and wonderful Operation in the whole Body of Man; but for brevity ſake I have here omitted.</p>
+               <p>☞ I do faithfully promiſe all Perſons, That this Cordial Drink <hi>is ſo ſafe, and ſo truly prepared,</hi> and does taſte ſo pleaſant, <hi>That the leaſt Child may take it, Sick or Well,</hi> Winter or Summer.</p>
+               <p>I have inſerted nothing but what my Cordial <hi>will not fail to Cure,</hi> AS EXPERIENCE HATH FOUND upon Men, Women, and Children, and doth find true to the End.</p>
+               <p>This approved and Never-Failing Cordial, is Sold in no place in <hi>England</hi> but in <hi>London,</hi> within <hi>Alderſgate</hi> in St.<hi>Martins,</hi> next Door to the Fountain-Tavern at the Picture-Drawers Houſe, at 6 <hi>s.</hi> the Pint Bottle, and 3 <hi>s.</hi> the half Pint Bottle; And alſo at Mr. <hi>John Haindes</hi> Houſe dwelling in <hi>York</hi> City in <hi>Owſegate</hi> at the <hi>Hand</hi> and <hi>Pen,</hi> with Directions at large in Print for the Uſe of it, at 7 <hi>s.</hi> the Pint Bottle, and 3 <hi>s.</hi> 6 <hi>d.</hi> the half Pint Bottle, for Conveniency of all to ſave Charges, <hi>and bid Farewel to their former ways for ever.</hi> A Happy Riddance, and a Bleſſed Remedy. <hi>Soli Deo Gloria.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
